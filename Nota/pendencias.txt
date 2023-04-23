@@ -1,0 +1,9 @@
+- arrumar as letras do menu   ok
+- colocar gradiente na imagem 
+- inserir registros na listagem   ok 
+- arrumar botão de enviar do cadastro ok 
+- arrumar a parte de update  ok
+- colocar sombra no top nav  ok 
+- colocar imagem no bory  ok
+- gravar vídeo 
+- fazer git do código e postar no github 
