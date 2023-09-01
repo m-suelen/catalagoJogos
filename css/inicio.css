@@ -52,9 +52,10 @@ body{
     text-transform: uppercase;
     letter-spacing: 1px;
     font-size: 18px;
+    transition: .8s ease;
 }
 .top-nav a:hover{
-    background-color: #d6dddf;
+    color: #d6dddf;
 }
 .footer{
     background:#2a2d2e;
@@ -90,7 +91,7 @@ body{
         letter-spacing: 1px;
     }
     .top-nav a:hover{
-        background-color: #c5ccd0;
+        color: #c5ccd0;
     }
     .top-content{
         background-color: #25303e;
