@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6{
     font-family: "Oxygen";
 }
 body{
-    background-color: #ffff9d;
+    background-image: linear-gradient(to right, #a4addb, #4444a0, #0f0f4b);
 }
 .clearfix:after{
     content: ' ';
@@ -54,7 +54,7 @@ body{
     font-size: 18px;  
 }
 .top-nav a:hover{
-    background-color: #7c3792;
+    background-color: #d6dddf;
 }
 .table{
     font-family: Arial, Helvetica, sans-serif;
@@ -70,8 +70,8 @@ body{
     padding: 10px;
   }
   
-  .table tr:nth-child(even){background-color: #5a6062;}
-  .table tr {background-color:  #989595;}
+  .table tr:nth-child(even){background-color: #474478;}
+  .table tr {background-color:  #8580cf;}
   
   .table tr:hover {background-color: #c9c9c9;}
   
@@ -95,6 +95,7 @@ body{
     .top-header-title{
         font-family: 'Minecraft', times, serif;
         font-weight: normal;
+        font-size: 32px;
         float: left;    
     }
     .top-nav{
@@ -111,7 +112,7 @@ body{
         display: inline-block;
     }
     .top-nav a{
-        color: #2a2d2e;
+        color: #83969f;
         text-transform: uppercase;
         letter-spacing: 1px;
     }

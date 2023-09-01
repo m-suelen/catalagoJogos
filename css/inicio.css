@@ -13,6 +13,9 @@ html{
 h1, h2, h3, h4, h5, h6{
     font-family: "Oxygen";
 }
+body{
+    background-image: linear-gradient(to right, #a4addb, #4444a0, #0f0f4b);
+}
 .clearfix:after{
     content: ' ';
     display: block;
@@ -65,6 +68,7 @@ h1, h2, h3, h4, h5, h6{
     .top-header-title{
         font-family: 'Minecraft', times, serif;
         font-weight: normal;
+        font-size: 32px;
         float: left;         
     }
     .top-nav{
@@ -81,7 +85,7 @@ h1, h2, h3, h4, h5, h6{
         display: inline-block;
     }
     .top-nav a{
-        color: #2a2d2e;
+        color: #83969f;
         text-transform: uppercase;
         letter-spacing: 1px;
     }
@@ -98,22 +102,20 @@ h1, h2, h3, h4, h5, h6{
         margin-left: 50px;
     }
     .top-content{
-        background-image: url(../imagens/img-topo-1198.jpg);   
+        background-image: url(../imagens/topo-1198.jpg);   
         height: 5em;    
         padding-top: 15em;
         background-position: center top;
         background-size: cover;
-        background-repeat: no-repeat;
-                
+        background-repeat: no-repeat; 
     }
 }
 @media screen and (min-width: 64em){
     .top-content{
-        background-image: url(../imagens/img-topo-1600.jpg);
+        background-image: url(../imagens/topo-1600.jpg);
         padding: 10em 10em 10em;
         background-position: center top;
         background-size: cover;
         background-repeat: no-repeat;
     }
-
 }

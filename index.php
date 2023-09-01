@@ -21,7 +21,7 @@
             </nav>
         </div>
     </header>
-    <section class="top-content">
+    <section class="top-content">      
         <div class="maxwidth"></div>
     </section>
     <footer class="footer">    
